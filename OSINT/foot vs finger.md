@@ -5,31 +5,21 @@ Footprinting is the first step in the process of ethical hacking or reconnaissan
 ##Purpose:
 
 To build a complete profile of the target.
-
 Understand the organization’s external and internal infrastructure.
-
 Identify IP ranges, domain names, mail servers, and public-facing systems.
 
 ##Techniques:
-
+---
 Passive (without interacting with the target):
-
 WHOIS lookup
-
 DNS queries
-
 Search engines (Google hacking)
-
 Social engineering
-
 Active (with minimal interaction):
-
 Ping sweeps
-
 Traceroute
-
 Email harvesting
-
+---
 ##Example:
 
 Finding the target's IP address, domain registration info, employee emails, or technologies used on their website.
