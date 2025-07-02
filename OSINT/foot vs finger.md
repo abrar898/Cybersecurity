@@ -83,6 +83,16 @@ Fingerprinting is a focused, technical process that follows footprinting. It ide
 | Footprinting  | General information gathering | WHOIS, DNS, Google, etc. | Passive/Active   | Search tools, NSLookup    |
 | Fingerprinting| Technical system details       | Packet crafting/sniffing | Active/Passive   | Nmap, Wireshark, Netcat   |
 
+| Feature         | Footprinting                       | Fingerprinting                             |
+| --------------- | ---------------------------------- | ------------------------------------------ |
+| **Purpose**     | Gather broad info about the target | Identify system-specific technical details |
+| **Phase**       | Early Reconnaissance               | Scanning/Enumeration                       |
+| **Scope**       | High-level (domains, emails, IPs)  | Low-level (OS, services, versions)         |
+| **Interaction** | Mostly passive                     | Often active                               |
+| **Tools**       | WHOIS, Google, Maltego             | Nmap, Xprobe, Wireshark                    |
+| **Result**      | Target profile                     | Detailed system fingerprint                |
+
+
 ---
 
 ## 📚 License
