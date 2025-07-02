@@ -1,7 +1,8 @@
+---
 #🔍 Footprinting (Information Gathering Phase)
 Definition:
 Footprinting is the first step in the process of ethical hacking or reconnaissance. It involves collecting as much information as possible about the target (an organization or system) to identify potential attack vectors.
----
+
 ##Purpose:
 
 To build a complete profile of the target.
@@ -9,7 +10,6 @@ Understand the organization’s external and internal infrastructure.
 Identify IP ranges, domain names, mail servers, and public-facing systems.
 
 ##Techniques:
----
 Passive (without interacting with the target):
 WHOIS lookup
 DNS queries
