@@ -114,6 +114,46 @@ An image is leaked online. You extract the EXIF data and find GPS coordinates—
 📂 This file is part of an OSINT learning series. Contributions and examples are welcome.
 
 
+# 📍 Physical Location OSINT
+
+## 🔍 What is Physical Location OSINT?
+
+**Definition:**  
+Physical location OSINT is the process of using open-source data (images, videos, social media, maps, etc.) to determine the **exact or approximate physical location** of a subject.
+
+### 📌 Common Use Cases:
+- Cyber investigations  
+- Intelligence gathering  
+- Journalism (fact-checking)  
+- Law enforcement  
+- Threat assessment  
+
+---
+
+## 🔍 Key Techniques to Find Physical Location in OSINT
+
+### 1. 🖼️ Image & Video Analysis
+- Use landmarks, signs, shadows, terrain, vegetation, etc.  
+- Reverse image search to find where the image has appeared before  
+
+**Tools:**
+- [Google Images](https://images.google.com)  
+- [Yandex Images](https://yandex.com/images/) – good for faces & places  
+- [TinEye](https://tineye.com)  
+
+---
+
+### 2. 🧾 EXIF Metadata
+- Use EXIF data from images (if available) to find GPS coordinates  
+
+**Tools:**
+- `exiftool`  
+- [exif.regex.info](https://exif.regex.info)  
+- [fotoforensics.com](https://fotoforensics.com)  
+
+**Example:**
+
+
 ---
 
 ## 3. Geolocation OSINT
